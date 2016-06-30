@@ -3,7 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Practice.Web", "Practice.Web\Practice.Web.xproj", "{BC7BC274-77C7-4384-930D-AAD3961CDDFD}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC7BC274-77C7-4384-930D-AAD3961CDDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7BC274-77C7-4384-930D-AAD3961CDDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7BC274-77C7-4384-930D-AAD3961CDDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7BC274-77C7-4384-930D-AAD3961CDDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
